@@ -1,4 +1,5 @@
 baseURL = 'https://spinach.blog'
 languageCode = 'ko-kr'
 title = 'Spinach'
-theme = 'ananke'
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+
