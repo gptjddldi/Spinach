@@ -3,11 +3,10 @@ languageCode = 'ko-kr'
 title = 'Spinach'
 theme = 'ananke'
 
-copyright = "박혜성"
 enableEmoji = true
 enableRobotTXT = true
 disqusShortname = "spinachhh"
-
+googleAnalytics = "G-RZ17MSRZ2G"
 
 [[params.ananke_socials]]
 name = "github"
