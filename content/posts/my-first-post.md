@@ -9,3 +9,4 @@ draft: false
 This is **bold** text, and this is *emphasized* text.
 
 Visit The [Hugo](https://gohugo.io) website!
+:laughing:

@@ -2,3 +2,15 @@ baseURL = 'https://spinach.blog'
 languageCode = 'ko-kr'
 title = 'Spinach'
 theme = 'ananke'
+
+copyright = "박혜성"
+enableEmoji = true
+enableRobotTXT = true
+
+
+[[params.ananke_socials]]
+name = "github"
+url = "https://github.com/gptjddldi"
+color = '#76a9e7'
+
+disqusShortname = "spinachhh"
