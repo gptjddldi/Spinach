@@ -7,7 +7,7 @@ frontend:
       - tar -C /usr/local -xzf ./go1.15.7.linux-amd64.tar.gz
     build:
       commands:
-      - PATH=$PATH:/usr/local/go/bin hugo
+      - PATH=$PATH:/usr/local/go/bin HUGO_ENV=production hugo
   artifacts:
     baseDirectory: public
     files:

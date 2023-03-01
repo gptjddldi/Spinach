@@ -5,7 +5,6 @@
     <link>https://spinach.blog/tags/</link>
     <description>Recent content in Tags on Spinach</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ko-kr</language>
-    <copyright>박혜성</copyright><atom:link href="https://spinach.blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>ko-kr</language><atom:link href="https://spinach.blog/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
