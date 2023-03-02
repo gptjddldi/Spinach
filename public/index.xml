@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spinach</title>
-    <link>https://spinach.blog/</link>
+    <link>https://www.spinach.blog/</link>
     <description>Recent content on Spinach</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Tue, 28 Feb 2023 11:06:29 +0900</lastBuildDate><atom:link href="https://spinach.blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Feb 2023 11:06:29 +0900</lastBuildDate><atom:link href="https://www.spinach.blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Second Post</title>
-      <link>https://spinach.blog/posts/my-second-post/</link>
+      <link>https://www.spinach.blog/posts/my-second-post/</link>
       <pubDate>Tue, 28 Feb 2023 11:06:29 +0900</pubDate>
       
-      <guid>https://spinach.blog/posts/my-second-post/</guid>
+      <guid>https://www.spinach.blog/posts/my-second-post/</guid>
       <description>hi there. </description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>https://spinach.blog/posts/my-first-post/</link>
+      <link>https://www.spinach.blog/posts/my-first-post/</link>
       <pubDate>Mon, 27 Feb 2023 16:22:07 +0900</pubDate>
       
-      <guid>https://spinach.blog/posts/my-first-post/</guid>
+      <guid>https://www.spinach.blog/posts/my-first-post/</guid>
       <description>Introduction This is bold text, and this is emphasized text.
 Visit The Hugo website! 😆</description>
     </item>

@@ -1,7 +1,7 @@
-baseURL = 'https://spinach.blog'
+baseURL = 'https://www.spinach.blog'
 languageCode = 'ko-kr'
 title = 'Spinach'
-theme = 'ananke'
+theme = "PaperMod"
 
 enableEmoji = true
 enableRobotTXT = true
