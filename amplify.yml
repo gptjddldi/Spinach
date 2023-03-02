@@ -8,7 +8,6 @@ frontend:
     build:
       commands:
       - PATH=$PATH:/usr/local/go/bin HUGO_ENV=production 
-      - go get -u github.com/adityatelange/hugo-PaperMod
       - hugo
 
   artifacts:
