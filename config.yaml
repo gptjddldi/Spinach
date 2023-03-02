@@ -2,7 +2,8 @@ baseURL: 'https://www.spinachhh.blog'
 paginate: 5
 languageCode: ko-kr
 title: Spinachhh
-theme: PaperMod
+theme: github.com/adityatelange/hugo-PaperMod
+
 
 buildDrafts: false
 buildFuture: false
