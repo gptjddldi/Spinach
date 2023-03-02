@@ -1,0 +1,92 @@
+baseURL: 'https://www.spinachhh.blog'
+paginate: 5
+languageCode: ko-kr
+title: Spinachhh
+theme: PaperMod
+
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+pygmentsUseClasses: true
+enableRobotTXT: true
+disqusShortname: spinachhh
+
+minify:
+  disableXML: true
+  minifyOutput: true
+params:
+  env: production
+  title: Spinach
+  description: Spinach blog
+  keywords:
+    - Blog
+    - Portfolio
+    - Develop
+  DateFormat: 'January 2, 2006'
+  defaultTheme: auto
+  disableThemeToggle: false
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: true
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+  label:
+    text: Home
+    icon: /apple-touch-icon.png
+    iconHeight: 35
+  homeInfoParams:
+    Title: Hi there
+    Content: Welcome to my blog.
+  socialIcons:
+    - name: github
+      url: 'https://github.com/gptjddldi'
+  analytics:
+    google:
+      SiteVerificationTag: RZ17MSRZ2G
+  cover:
+    hidden: true
+    hiddenInList: true
+    hiddenInSingle: true
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys:
+      - title
+      - permalink
+      - summary
+      - content
+  outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+menu:
+  main:
+    - identifier: categories
+      name: 카테고리
+      url: /categories/
+      weight: 10
+    - identifier: search
+      name: 검색
+      url: /search/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
+
+markup:
+  highlight:
+    noClasses: false
