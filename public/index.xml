@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Spinach</title>
-    <link>https://www.spinach.blog/</link>
-    <description>Recent content on Spinach</description>
+    <title>Spinachhh</title>
+    <link>https://www.spinachhh.blog/</link>
+    <description>Recent content on Spinachhh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Tue, 28 Feb 2023 11:06:29 +0900</lastBuildDate><atom:link href="https://www.spinach.blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Mar 2023 15:08:52 +0900</lastBuildDate><atom:link href="https://www.spinachhh.blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Second Post</title>
-      <link>https://www.spinach.blog/posts/my-second-post/</link>
-      <pubDate>Tue, 28 Feb 2023 11:06:29 +0900</pubDate>
+      <link>https://www.spinachhh.blog/posts/my-second-post/</link>
+      <pubDate>Thu, 02 Mar 2023 15:08:52 +0900</pubDate>
       
-      <guid>https://www.spinach.blog/posts/my-second-post/</guid>
-      <description>hi there. </description>
+      <guid>https://www.spinachhh.blog/posts/my-second-post/</guid>
+      <description>hi there</description>
     </item>
     
     <item>
-      <title>My First Post</title>
-      <link>https://www.spinach.blog/posts/my-first-post/</link>
-      <pubDate>Mon, 27 Feb 2023 16:22:07 +0900</pubDate>
+      <title>LeetCode 128. Longest Consecutive Sequence</title>
+      <link>https://www.spinachhh.blog/posts/leetcode-128/</link>
+      <pubDate>Wed, 01 Mar 2023 23:18:30 +0900</pubDate>
       
-      <guid>https://www.spinach.blog/posts/my-first-post/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.
-Visit The Hugo website! 😆</description>
+      <guid>https://www.spinachhh.blog/posts/leetcode-128/</guid>
+      <description>time: O(N) / space: O(N) class Solution: def longestConsecutive(self, nums: List[int]) -&amp;gt; int: d = dict() if not nums: return 0 for num in nums: if num in d: continue l,r = num-1, num+1 left_value = d.get(l, 0) right_value = d.get(r, 0) d[num] = left_value + right_value + 1 d[num-left_value] = d[num] d[num+right_value] = d[num] return max(d.values()) 양 옆 끝의 값을 업데이트 하면서 진행</description>
     </item>
+    
     
   </channel>
 </rss>

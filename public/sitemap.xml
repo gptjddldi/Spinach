@@ -2,20 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.spinach.blog/posts/my-second-post/</loc>
-    <lastmod>2023-02-28T11:06:29+09:00</lastmod>
+    <loc>https://www.spinachhh.blog/posts/my-second-post/</loc>
+    <lastmod>2023-03-02T15:08:52+09:00</lastmod>
   </url><url>
-    <loc>https://www.spinach.blog/posts/</loc>
-    <lastmod>2023-02-28T11:06:29+09:00</lastmod>
+    <loc>https://www.spinachhh.blog/posts/</loc>
+    <lastmod>2023-03-02T15:08:52+09:00</lastmod>
   </url><url>
-    <loc>https://www.spinach.blog/</loc>
-    <lastmod>2023-02-28T11:06:29+09:00</lastmod>
+    <loc>https://www.spinachhh.blog/</loc>
+    <lastmod>2023-03-02T15:08:52+09:00</lastmod>
   </url><url>
-    <loc>https://www.spinach.blog/posts/my-first-post/</loc>
-    <lastmod>2023-02-27T16:22:07+09:00</lastmod>
+    <loc>https://www.spinachhh.blog/posts/leetcode-128/</loc>
+    <lastmod>2023-03-01T23:18:30+09:00</lastmod>
   </url><url>
-    <loc>https://www.spinach.blog/categories/</loc>
+    <loc>https://www.spinachhh.blog/categories/</loc>
   </url><url>
-    <loc>https://www.spinach.blog/tags/</loc>
+    <loc>https://www.spinachhh.blog/search/</loc>
+  </url><url>
+    <loc>https://www.spinachhh.blog/tags/</loc>
   </url>
 </urlset>
