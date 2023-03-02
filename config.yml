@@ -68,11 +68,11 @@ params:
       - permalink
       - summary
       - content
-  outputs:
-    home:
-        - HTML
-        - RSS
-        - JSON
+outputs:
+  home:
+      - HTML
+      - RSS
+      - JSON
 menu:
   main:
     - identifier: categories
