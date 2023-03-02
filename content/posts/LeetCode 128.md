@@ -23,4 +23,3 @@ class Solution:
         return max(d.values())
 ```
 양 옆 끝의 값을 업데이트 하면서 진행
-:laughing:
